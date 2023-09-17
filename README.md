@@ -14,3 +14,4 @@ Socket-Blackboard-NodeJS es un proyecto basado en Node.js y Socket.io que propor
 
 Este repositorio contiene el código fuente del servidor Node.js y el cliente web necesario para ejecutar la aplicación. Proporciona una base sólida para construir y ampliar una pizarra colaborativa en tiempo real utilizando tecnologías de sockets y Node.js.
 
+2023

@@ -12,7 +12,7 @@ const io = socketIO(server);
 require("./socktes")(io);
 
 //settings
-app.set("port", process.env.PORT || 8080);
+app.set("port", process.env.PORT || 3000);
 
 //middlewares
 
